@@ -1,0 +1,17 @@
+{
+    "name": "depidsvy/phpinfo2",
+    "authors": [
+        {
+            "name": "DEPIDSVY",
+            "email": "depidsvy@nintendo.de"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src"
+        ]
+    },
+    "require": {
+        "paquettg/php-html-parser": "^3.1"
+    }
+}
